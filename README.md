@@ -1,5 +1,5 @@
 ### Hi there 👋
-**CS-IMMS/cs-imms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm [Mahamadou Moussa Ismael](https://imms.me/), I am a passionate full stack web developer, with a solid foundation in full stack development. I have acquired programming skills through my studies and personal projects, and I am always eager to update myself with the latest technologies and development practices. I am able to work alone or in a team, and I look forward to putting my skills into practice in a professional work environment.
 
 **languages and tools:**  
 
